@@ -3,3 +3,4 @@ streamlit
 pands
 matplotlib
 seaborn
+kagglehub
