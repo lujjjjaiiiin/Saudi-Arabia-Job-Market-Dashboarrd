@@ -261,7 +261,6 @@ print(
 
 """# 4. **Streamlit**"""
 
-!pip install streamlit pyngrok kagglehub -q
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
