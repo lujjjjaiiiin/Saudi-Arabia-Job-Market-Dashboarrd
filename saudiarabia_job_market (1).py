@@ -563,7 +563,6 @@ print(
 # st.dataframe(filtered.head(20), use_container_width=True)
 #
 
-ngrok config add-authtoken 3FVooPUFO1qyz7a39M6NbfYHJIa_6mRMK6URehsbpLaY3jJMZ
 
 from pyngrok import ngrok
 import subprocess, time
